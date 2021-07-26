@@ -1,2 +1,2 @@
-# AndroidJNITest-
+# AndroidJNITest
 Android JNI Test 
